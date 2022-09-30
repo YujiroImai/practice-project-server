@@ -1,1 +1,1 @@
-# practice-project-server
+# upsns-server
